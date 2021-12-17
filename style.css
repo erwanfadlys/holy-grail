@@ -91,7 +91,7 @@ strong.quoted{
 }
 
 .calling-content{
-    margin-top:40px;
+    margin:40px 0px ;
     padding: 20px 140px;
     display: flex;
     align-self: center;
